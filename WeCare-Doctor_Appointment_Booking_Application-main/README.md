@@ -1,9 +1,5 @@
 # Doctor_Appointment_Booking_Application
 
-## 📽️ Demo Video
-
-[![Watch Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1sAvTTrGPlbfzjCyN4ZQAwE8ncMNFI1z3/view?usp=sharing)
-
 📺 **Click the image above or [watch the demo here](https://drive.google.com/file/d/1sAvTTrGPlbfzjCyN4ZQAwE8ncMNFI1z3/view?usp=sharing)**
 
 ---
